@@ -1,0 +1,26 @@
+UniqueID,FullName,FirstName,LastName,Email,ManagerUniqueID,Delete,Department,Hire Date,Office Location,Business Unit,People Manager,All Hands,Finance,Sales,Production,HR,Marketing,Leadership Dev,APAC,EMEA,LATAM,NAMER
+173657,Kim Blank,Kim,Blank,kim.blank@Acme.com,11034,N,Procurement,2004-12-01,"Beijing, China",Finance,Y,Y,Y,N,N,N,N,Y,Y,N,N,N
+173658,Jeff Shilling,Jeff,Shilling,jeff.shilling@acme.com,11587,N,Lead Sourcing,2010-01-08,"London, UK",Sales,Y,Y,N,Y,N,N,N,Y,N,Y,N,N
+173659,Nancy Barnes,Nancy,Barnes,nancy.barnes@acme.com,10426,N,Supply Chain,2019-06-01,"Tokyo, Japan",Production,N,Y,N,N,Y,N,N,N,Y,N,N,N
+173660,Hank Edwards,Hank,Edwards,hank.edwards@acme.com,10033,N,Talent Acquisition,2003-03-05,"Sao Paulo, Brazil",HR,N,Y,N,N,N,Y,N,N,N,N,Y,N
+173661,Amy Cuth,Amy,Cuth,amy.cuth@acme.com,14422,N,Digital,2018-05-05,"Mexico City, Mexico",Marketing,Y,Y,N,N,N,N,Y,Y,N,N,N,Y
+173662,Jaylan Walter,Jaylan,Walter,jaylan.walter@acme.com,12256,N,FP &A,2019-06-01,"New York, NY",Finance,N,Y,Y,N,N,N,N,N,N,N,N,Y
+172663,Nora Harrell,Nora,Harrell,nora.harrell@acme.com,54956,N,Field,2016-02-01,"Toronto, Canada",Sales,Y,Y,N,Y,N,N,N,Y,N,N,N,Y
+173664,Carlos McCann,Carlos,McCann,carlos.mccann@acme.com,98122,N,Learning & Development,2018-10-02,"Bangalore, India",HR,Y,Y,N,N,N,Y,N,Y,Y,N,N,N
+173665,Kailee Johnson,Kailee,Johnson,kailee.johnson@acme.com,98118,N,Supply Chain,2003-12-01,"Los Angeles, CA",Production,N,Y,N,N,Y,N,N,N,N,N,N,Y
+173666,Mathias Villegas,Mathias,Villegas,mathias.villegas@acme.com,11053,N,Digital,2003-12-01,"Chicago, IL",Marketing,N,Y,N,N,N,N,Y,N,N,N,N,Y
+173667,Mylie Carey,Mylie,Carey,mylie.carey@acme.com,11674,N,Procurement,2018-07-01,"Buenos Aires, Argentina",Finance,N,Y,Y,N,N,N,N,N,N,N,Y,N
+173668,Diego Duffy,Diego,Duffy,diego.duffy@acme.com,11987,N,Field,2018-10-01,"Mexico City, Mexico",Sales,N,Y,N,Y,N,N,N,N,N,N,N,Y
+173669,Fatime Guerra,Fatima,Guerra,fatima.guerra@acme.com,11524,N,QA,2015-04-02,"Sao Paulo, Brazil",Production,Y,Y,N,N,Y,N,N,Y,N,N,Y,N
+173770,Joseph Osborn,Joseph,Osborn,joseph.osborn@acme.com,11999,N,Talent Acquisition,2004-12-01,"New York, NY",HR,Y,Y,N,N,N,Y,N,Y,N,N,N,Y
+173771,Nora Sanchez,Nora,Sanchez,nora.sanchez@acme.com,11888,N,Partnerships & Alliances,2010-01-08,"New York, NY",Marketing,Y,Y,N,N,N,N,Y,Y,N,N,N,Y
+173772,Derek Eaton,Derek ,Eaton,derek.eaton@acme.com,11678,N,Accounting,2019-06-01,"Beijing, China",Finance,N,Y,Y,N,N,N,N,N,Y,N,N,N
+173773,Karlie Hartman,Karlie,Hartman,karlie.hartman@acme.com,11900,N,Field,2003-03-05,"Beijing, China",Sales,Y,Y,N,Y,N,N,N,Y,Y,N,N,N
+173774,Killian Bryan,Killian,Bryan,killian.bryan@acme.com,11244,N,QA,2018-05-05,"Tokyo, Japan",Production,N,Y,N,N,Y,N,N,N,Y,N,N,N
+173775,Guillermo Josph,Guillermo,Joseph,guillermo.joseph@acme.com,11322,N,Learning & Development,2019-06-01,"Toronto, Canada",HR,Y,Y,N,N,N,Y,N,Y,N,N,N,Y
+173776,Hafiz Luna,Hafiz,Luna,hafiz.luna@acme.com,11544,N,Digital,2016-02-01,"London, UK",Marketing,Y,Y,N,N,N,N,Y,Y,N,Y,N,N
+173777,Kate Huffman,Kate,Huffman,kate.huffman@acme.com,16577,N,Accounting,2018-10-02,"Buenos Aires, Argentina",Finance,Y,Y,Y,N,N,N,N,Y,N,N,Y,N
+173778,Danielle West,Danielle,West,danielle.west@acme.com,18395,N,Field,2003-12-01,"Los Angeles, CA",Sales,N,Y,N,Y,N,N,N,N,N,N,N,Y
+173779,Alex Pace,Alex,Pace,alex.pace@acme.com,19835,N,Supply Chain,2003-12-01,"Los Angeles, CA",Production,N,Y,N,N,Y,N,N,N,N,N,N,Y
+173780,Jamie Carr,Jamie,Carr,jamie.carr@acme.com,12245,N,Talent Acquisition,2018-07-01,"Toronto, Canada",HR,Y,Y,N,N,N,Y,N,Y,N,N,N,Y
+173781,Natalya Lucero,Natalya,Lucero,natalya.lucero@acme.com,14556,N,Digital,2018-10-01,"New York, NY",Marketing,Y,Y,N,N,N,N,Y,Y,N,N,N,Y
